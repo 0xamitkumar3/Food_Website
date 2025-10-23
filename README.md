@@ -1,16 +1,31 @@
-# React + Vite
+# Food Delivery Website 🍔🍕🥗
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern *food delivery web application* built using *React, **Redux, and **React Router*. Browse restaurants, explore menus, add items to your cart, and enjoy a seamless online ordering experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Browse a list of restaurants and their menus
+- Add food items to the cart
+- Redux state management for cart and user data
+- React Router for smooth navigation
+- Responsive design for mobile and desktop
+- Real-time cart updates and total price calculation
+- Easy integration with APIs for real orders (optional)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- *Frontend:* React, Redux, React Router
+- *Styling:* CSS / SCSS / Tailwind CSS (customize as per your project)
+- *State Management:* Redux
+- *Routing:* React Router DOM
+- *Optional:* Axios or Fetch API for backend data fetching
+
+---
+
+Author: Amit Kumar
+Email: imamit0311@gmail.com
+GitHub: https://github.com/amit-kumar-11
